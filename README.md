@@ -4,9 +4,13 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" /
-<title>Eleven Fanonts.googleapis.com/css2family=Orbitron:wght@700&family=Roboto:wght@400;700&dsplay=swap')
-    a8a;
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Eleven Fanatics - Cricket Team</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Roboto:wght@400;700&display=swap');
+
+  :root {
+    --primary-color: #1e3a8a;
     --secondary-color: #fbbf24;
     --accent-color: #ef4444;
     --background-color: #0f172a;
@@ -252,6 +256,7 @@
 </footer>
 </body>
 </html>
+
 
 
 
